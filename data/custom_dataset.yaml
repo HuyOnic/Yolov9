@@ -2,5 +2,5 @@ train: ../dataset/train/images
 val: ../dataset/val/images
 test: ../dataset/test
 
-nc: 8
-names: ['motorbike','car','bus','container','motorbike','car','bus','container']
+nc: 4
+names: ['motorbike','car','bus','container']
