@@ -4,4 +4,3 @@ test: ../dataset/test
 
 nc: 4
 names: ['motorbike','car','bus','container']
-mixup: 0.5
